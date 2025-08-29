@@ -1,0 +1,5 @@
+module PracticeQT
+typeinfo appPracticeQT.qmltypes
+prefer :/qt/qml/PracticeQT/
+Main 1.0 Main.qml
+

@@ -1,0 +1,10 @@
+-I
+C:/Users/PC/Desktop/Workspace/PracticeQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.1/mingw_64/qml
+--resource
+C:/Users/PC/Desktop/Workspace/PracticeQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_PracticeQT.qrc
+--resource
+C:/Users/PC/Desktop/Workspace/PracticeQT/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appPracticeQT_raw_qml_0.qrc
+--module
+PracticeQT
