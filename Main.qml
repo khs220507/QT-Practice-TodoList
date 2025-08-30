@@ -50,7 +50,7 @@ Window {
                             contentItem: Text {
                                 text: clearAllBtn.text
                                 color: clearAllBtn.enabled ? "#ffffff" : "#777777"
-                                anchors.centerIn: parent
+                                anchors.centerIn: parentd
                             }
                             onClicked: todoModel.clear()
                         }
