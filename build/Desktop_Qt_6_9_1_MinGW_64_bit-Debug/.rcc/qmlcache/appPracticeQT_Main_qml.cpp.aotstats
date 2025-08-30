@@ -4,340 +4,92 @@
             {
                 "entries": [
                     {
-                        "codegenSuccessful": false,
-                        "column": 13,
-                        "durationMicroseconds": 148,
-                        "errorMessage": "Cannot retrieve a non-object type by ID: input",
-                        "functionName": "addTodo",
-                        "line": 178
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "theme",
+                        "line": 12
                     },
                     {
                         "codegenSuccessful": true,
-                        "column": 31,
-                        "durationMicroseconds": 130,
+                        "column": 25,
+                        "durationMicroseconds": 57,
                         "errorMessage": "",
-                        "functionName": "left",
-                        "line": 21
+                        "functionName": "accent",
+                        "line": 13
                     },
                     {
                         "codegenSuccessful": true,
-                        "column": 32,
-                        "durationMicroseconds": 55,
+                        "column": 26,
+                        "durationMicroseconds": 32,
                         "errorMessage": "",
-                        "functionName": "right",
-                        "line": 22
+                        "functionName": "fill",
+                        "line": 17
                     },
                     {
                         "codegenSuccessful": true,
-                        "column": 30,
-                        "durationMicroseconds": 55,
+                        "column": 33,
+                        "durationMicroseconds": 79,
                         "errorMessage": "",
-                        "functionName": "top",
-                        "line": 23
+                        "functionName": "text",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 38,
+                        "durationMicroseconds": 158,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 50
                     },
                     {
                         "codegenSuccessful": true,
                         "column": 45,
-                        "durationMicroseconds": 60,
+                        "durationMicroseconds": 28,
                         "errorMessage": "",
-                        "functionName": "verticalCenter",
-                        "line": 29
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 35,
-                        "durationMicroseconds": 50,
-                        "errorMessage": "",
-                        "functionName": "left",
-                        "line": 30
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 38,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"enabled\".",
-                        "functionName": "enabled",
-                        "line": 44
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 40,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find signal \"clicked\".",
-                        "functionName": "onClicked",
-                        "line": 55
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 53,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"verticalCenter\".",
-                        "functionName": "verticalCenter",
-                        "line": 41
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 44,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"right\".",
-                        "functionName": "right",
-                        "line": 42
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 40,
-                        "durationMicroseconds": 36,
-                        "errorMessage": "Cannot access value for name clearAllBtn",
-                        "functionName": "color",
-                        "line": 47
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 39,
-                        "durationMicroseconds": 12,
-                        "errorMessage": "Cannot access value for name clearAllBtn",
-                        "functionName": "text",
-                        "line": 51
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 40,
-                        "durationMicroseconds": 21,
-                        "errorMessage": "Cannot access value for name clearAllBtn",
-                        "functionName": "color",
-                        "line": 52
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 51,
-                        "durationMicroseconds": 4,
-                        "errorMessage": "Cannot access value for name parent",
                         "functionName": "centerIn",
-                        "line": 53
+                        "line": 45
                     },
                     {
                         "codegenSuccessful": true,
-                        "column": 31,
-                        "durationMicroseconds": 52,
-                        "errorMessage": "",
-                        "functionName": "left",
-                        "line": 64
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 32,
-                        "durationMicroseconds": 49,
-                        "errorMessage": "",
-                        "functionName": "right",
-                        "line": 65
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 30,
-                        "durationMicroseconds": 54,
-                        "errorMessage": "",
-                        "functionName": "top",
-                        "line": 66
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 35,
-                        "durationMicroseconds": 29,
+                        "column": 38,
+                        "durationMicroseconds": 25,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 73
+                        "line": 75
                     },
                     {
-                        "codegenSuccessful": false,
-                        "column": 32,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"width\".",
-                        "functionName": "width",
-                        "line": 81
+                        "codegenSuccessful": true,
+                        "column": 38,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 80
                     },
                     {
-                        "codegenSuccessful": false,
-                        "column": 37,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find signal \"accepted\".",
+                        "codegenSuccessful": true,
+                        "column": 64,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "",
                         "functionName": "onAccepted",
-                        "line": 83
+                        "line": 88
                     },
                     {
                         "codegenSuccessful": false,
-                        "column": 34,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"enabled\".",
+                        "column": 61,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
                         "functionName": "enabled",
                         "line": 95
                     },
                     {
                         "codegenSuccessful": false,
-                        "column": 36,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find signal \"clicked\".",
+                        "column": 87,
+                        "durationMicroseconds": 334,
+                        "errorMessage": "Cannot access value for name todoModel",
                         "functionName": "onClicked",
-                        "line": 109
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 36,
-                        "durationMicroseconds": 37,
-                        "errorMessage": "Cannot access value for name addBtn",
-                        "functionName": "color",
-                        "line": 98
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 35,
-                        "durationMicroseconds": 18,
-                        "errorMessage": "Cannot access value for name addBtn",
-                        "functionName": "text",
-                        "line": 105
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 47,
-                        "durationMicroseconds": 4,
-                        "errorMessage": "Cannot access value for name parent",
-                        "functionName": "centerIn",
-                        "line": 107
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 24,
-                        "durationMicroseconds": 38,
-                        "errorMessage": "",
-                        "functionName": "model",
-                        "line": 125
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 31,
-                        "durationMicroseconds": 58,
-                        "errorMessage": "",
-                        "functionName": "left",
-                        "line": 118
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 32,
-                        "durationMicroseconds": 64,
-                        "errorMessage": "",
-                        "functionName": "right",
-                        "line": 119
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 30,
-                        "durationMicroseconds": 51,
-                        "errorMessage": "",
-                        "functionName": "top",
-                        "line": 120
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 33,
-                        "durationMicroseconds": 44,
-                        "errorMessage": "",
-                        "functionName": "bottom",
-                        "line": 121
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 28,
-                        "durationMicroseconds": 30,
-                        "errorMessage": "Cannot access value for name listView",
-                        "functionName": "width",
-                        "line": 130
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 39,
-                        "durationMicroseconds": 24,
-                        "errorMessage": "",
-                        "functionName": "fill",
-                        "line": 138
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 35,
-                        "durationMicroseconds": 17,
-                        "errorMessage": "Cannot access value for name model",
-                        "functionName": "text",
-                        "line": 144
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 36,
-                        "durationMicroseconds": 40,
-                        "errorMessage": "",
-                        "functionName": "elide",
-                        "line": 146
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 36,
-                        "durationMicroseconds": 35,
-                        "errorMessage": "Cannot retrieve a non-object type by ID: deleteBtn",
-                        "functionName": "width",
-                        "line": 147
-                    },
-                    {
-                        "codegenSuccessful": true,
-                        "column": 53,
-                        "durationMicroseconds": 49,
-                        "errorMessage": "",
-                        "functionName": "verticalCenter",
-                        "line": 145
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 40,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find signal \"clicked\".",
-                        "functionName": "onClicked",
-                        "line": 170
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 44,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"right\".",
-                        "functionName": "right",
-                        "line": 155
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 53,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"verticalCenter\".",
-                        "functionName": "verticalCenter",
-                        "line": 156
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 40,
-                        "durationMicroseconds": 41,
-                        "errorMessage": "Cannot access value for name deleteBtn",
-                        "functionName": "color",
-                        "line": 159
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 39,
-                        "durationMicroseconds": 12,
-                        "errorMessage": "Cannot access value for name deleteBtn",
-                        "functionName": "text",
-                        "line": 166
-                    },
-                    {
-                        "codegenSuccessful": false,
-                        "column": 51,
-                        "durationMicroseconds": 4,
-                        "errorMessage": "Cannot access value for name parent",
-                        "functionName": "centerIn",
-                        "line": 168
+                        "line": 96
                     }
                 ],
                 "filePath": "C:/Users/PC/Desktop/Workspace/PracticeQT/Main.qml"
